@@ -1,0 +1,19 @@
+body, #container, #content, #main {
+    background: url('https://i.imgur.com/IcYV5wk.jpeg') no-repeat center top fixed !important;
+    background-size: cover !important;
+    font-family: 'Viaoda Libre', cursive;
+    color: #D2F1A9 !important;
+}
+
+h1, h2, h3, h4, h5, h6, p, span, div, td, th {
+    color: #D2F1A9 !important;
+}
+
+a {
+    color: #D2F1A9 !important;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
